@@ -1,0 +1,69 @@
+
+ #p{font-weight:556;font-size:18;margin-left:2;word-spacing:1px;width:100%;max-width:800px;color:#212121;bacbackground-clip:padding-box;}
+ 
+ 
+  #big{font-size:35px;font-weight:456;margin-left:2;letter-spacing:2px;color:#151515}
+  
+  body{
+  font: 15px/1.5 Arial, Helvetica,sans-serif;
+  padding:0;
+  margin:0;
+  background-color:#ffffff;
+}
+  
+   header{
+
+   background:#ffffff;
+
+   position: fixed;
+
+   top: 0;
+
+   left: 0;
+
+  width: 100%;
+  max-width:800px
+   height:10%;
+  
+   z-index: 999px;
+
+   box-shadow: 0px 0px 7px 0px #866aff;
+
+}
+  
+  #header{font-size:26;margin:18px;font-weight:300;background-color:
+#866aff
+ ;color:#e2e2e2;border-radius:5px;box-shadow: 0px 3px 6px 0px 
+#866aff
+ ;width:65;margin-left:10;
+ 
+ }    
+  
+  #menu{width:40;height:36;margin-top:-50;margin-right:10}
+ 
+ strong{color:#866aff}
+  
+  #nota{background-color:#a580ff;color:#ffffff;width:196;height:120;margin:auto;border:solid 2px #866aff;box-shadow: 0px 3px 6px 0px 
+#866aff;transition:width 2s}
+  
+  #nota:hover{width:300px}
+  
+  img{width:90%;
+  max-width:900px;
+  height:30%;}
+   
+   #logo{width:50;height:45;margin-top:-50;}
+ 
+ 
+ a:hover{background-color:#a555ff;color:#d5ffdf;font-weight:100;width:100;padding:9;background:#f855ff;transition:1s all
+ }
+
+
+footer{
+  padding:20px;
+  margin-top:20px;
+  color:#ffffff;
+  background-color:#866aff;
+  text-align: center;
+}
+
